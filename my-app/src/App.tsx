@@ -1,7 +1,7 @@
-import React from 'react';
-import { StringLiteralType } from 'typescript';
+import React from "react";
 
- const App = () =>  <div>Test</div> 
+import { TodosContainer } from "./conteiners";
+
+const App = () => <TodosContainer />;
 
 export default App;
-

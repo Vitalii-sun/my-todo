@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@containers/*": ["src/containers/*"],
+            "@styles/*": ["src/styles/*"],
+            "@shared/*": ["src/shared/*"]
+        }
+    }
+}
